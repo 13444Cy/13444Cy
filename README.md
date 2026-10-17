@@ -23,7 +23,7 @@ I am a first-year student majoring in Cybersecurity Engineering.
 
 - ⚙️ &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=markdown)
+  ![VirtualBox]
 
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
