@@ -19,11 +19,11 @@ I am a first-year student majoring in Cybersecurity Engineering.
 - 💻 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![java](https://img.shields.io/badge/-java-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
 
 - ⚙️ &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![VirtualBox]
+
 
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
