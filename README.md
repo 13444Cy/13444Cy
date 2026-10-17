@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**13444Cy/13444Cy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey there! I'm Ayoub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👨🏻‍💻  About Me
+I'm a 
+
+🧑‍🏫 1st-Year Cybersecurity Engineering Student
+📫 How to reach me: https://www.linkedin.com/in/ayoub-hammoud-ab124b330/
+ 🛠️ Languages and Tools:
+💻   Python C java JS php
+
+⚙️    KaliLinux GitHub Markdown 
+
+🔧   Visual Studio Code virtualbox paketTracer GNS3
