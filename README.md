@@ -12,7 +12,7 @@
 I am a first-year student majoring in Cybersecurity Engineering.
 
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
-- 📫 How to reach me: [Linkedin]([https://www.linkedin.com/in/ayoub-hammoud-ab124b330/]) [Gmail](https://www.ayoubhammoud8@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ayoub-hammoud-ab124b330/) [Gmail](https://www.ayoubhammoud8@gmail.com)
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
 
