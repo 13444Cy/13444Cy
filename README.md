@@ -29,7 +29,7 @@ I am a first-year student majoring in Cybersecurity Engineering.
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![GNS3](https://img.shields.io/badge/-GNS3-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
+![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer%20Code-333333?style=flat&logo=pkt-code&logoColor=007ACC)
   
 <br/>
 
